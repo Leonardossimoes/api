@@ -1,0 +1,82 @@
+[
+    {
+      "id":"1",
+      "link": "https://www.amazon.com.br/sangue-cinzas-Vol-1/dp/655981002X/ref=sr_1_10?keywords=livros&qid=1657735984&sr=8-10",
+      "img":"https://images-na.ssl-images-amazon.com/images/I/81TjnGG0g7L.jpg",
+      "title": "De sangue e cinzas",
+      "price": 19.99,
+      "break": 2,
+      "rating": 4,
+      "discount": 15
+    },
+    {
+      "id":"2",
+      "link": "https://www.amazon.com.br/Vermelho-branco-sangue-Casey-McQuiston-ebook/dp/B07XTQ5T5C/ref=sr_1_6?keywords=livros&qid=1657735984&sr=8-6",
+      "img":"https://m.media-amazon.com/images/I/411iLYOnR1L.jpg",
+      "title": "Vermelho, branco e sangue azul",
+      "price": 49.99,
+      "break": 3,
+      "rating": 5,
+      "discount": 10
+    },
+    {
+      "id":"3",
+      "link": "https://www.amazon.com.br/umdiasemreclamar-Descubra-gratid%C3%A3o-pode-mudar/dp/6587885047/ref=sr_1_13?keywords=livros&qid=1657735984&sr=8-13",
+      "img":"https://images-na.ssl-images-amazon.com/images/I/41+LUvzc6WL._SX331_BO1,204,203,200_.jpg",
+      "title": "Um dia sem reclamar",
+      "price": 19.99,
+      "break": 2,
+      "rating": 4,
+      "discount": 15
+    },
+    {
+      "id":"4",
+      "link": "https://www.amazon.com.br/Assim-que-Acaba-Colleen-Hoover/dp/8501112518/ref=sr_1_1?qid=1657736568&refinements=p_36%3A8620050011&rnid=8620044011&s=books&sr=1-1",
+      "img":"https://images-na.ssl-images-amazon.com/images/I/51i7kH+rh9L._SX322_BO1,204,203,200_.jpg",
+      "title": "É assim que acaba",
+      "price": 29.99,
+      "break": 3,
+      "rating": 5,
+      "discount": 22
+    },
+    {
+      "id":"5",
+      "link": "https://www.amazon.com.br/coisa-Stephen-King/dp/8560280944/ref=sr_1_27?qid=1657736594&refinements=p_36%3A8620050011&rnid=8620044011&s=books&sr=1-27",
+      "img":"https://images-na.ssl-images-amazon.com/images/I/51z0s3GcvwL._SX346_BO1,204,203,200_.jpg",
+      "title": "It! A coisa",
+      "price": 89.99,
+      "break": 4,
+      "rating": 5,
+      "discount": 0
+    },
+    {
+      "id":"6",
+      "link": "https://www.amazon.com.br/Mulheres-que-Correm-com-Lobos/dp/853252978X/ref=sr_1_14?keywords=livros&qid=1657735984&sr=8-14",
+      "img":"https://images-na.ssl-images-amazon.com/images/I/41ogXvQ5WYL._SX341_BO1,204,203,200_.jpg",
+      "title": "Mulheres que correm com lobos",
+      "price": 29.99,
+      "break": 3,
+      "rating": 5,
+      "discount": 15
+    },
+    {
+      "id":"7",
+      "link": "https://www.amazon.com.br/Harry-Potter-C%C3%A2mara-Secreta-Rowling/dp/8532530796/ref=sr_1_15?qid=1657736568&refinements=p_36%3A8620050011&rnid=8620044011&s=books&sr=1-15",
+      "img":"https://images-na.ssl-images-amazon.com/images/I/51SnGLrrJcL._SX346_BO1,204,203,200_.jpg",
+      "title": "Harry Potter e a câmara secreta",
+      "price": 74.99,
+      "break": 4,
+      "rating": 5,
+      "discount": 15
+    },
+    {
+      "id":"8",
+      "link": "https://www.amazon.com.br/dan%C3%A7a-morte-Stephen-King/dp/8581050549/ref=sr_1_25?qid=1657736594&refinements=p_36%3A8620050011&rnid=8620044011&s=books&sr=1-25&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9",
+      "img":"https://images-na.ssl-images-amazon.com/images/I/51Wpx+aPtZS._SX346_BO1,204,203,200_.jpg",
+      "title": "A dança da morte",
+      "price": 69.99,
+      "break": 4,
+      "rating": 4,
+      "discount": 10
+    }
+  ]
