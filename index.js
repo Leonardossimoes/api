@@ -4,10 +4,10 @@ const port = process.env.PORT || 8888
 
 const produtos = require("./produtos.json")
 
-app.get("/produtos", (req, res) => {
-  return res.json("produtos")
+app.get("/", (req, res) => {
+  res.send("teste")
 });
 
 app.listen(port, () => {
-  console.log("servidor está funcionando")
+  console.info("servidor está funcionando")
 })
